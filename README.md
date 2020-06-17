@@ -1,7 +1,9 @@
 # spm-test
 SPM test case
 
-Builds two formulas, installs one by one, removes, shows SPM state after each step
+- Builds two versions of the same package (test)
+- Installs both one after another one
+- Removes test package, shows SPM state after each step
 
 - Install salt-master, salt-minion, sqlite3
 - Run run_tests.sh
