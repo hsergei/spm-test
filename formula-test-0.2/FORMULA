@@ -1,0 +1,7 @@
+name: test
+os: Ubuntu
+os_family: Debian
+version: 0.2
+release: 0
+summary: test
+description: test
